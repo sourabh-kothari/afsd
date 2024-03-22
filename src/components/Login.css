@@ -1,0 +1,41 @@
+/* Inside src/App.css */
+
+
+h1 {
+  font-size: 34px;
+  margin-bottom: 30px;
+}
+
+.login {
+  display: flex;                                        /*adding the background at login page*/
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 119vh;
+  background-color: #ffea01;
+}
+
+
+
+input {
+  padding: 14px;
+  margin-bottom: 13px;
+  border: 2px solid #ecd109;
+  border-radius: 5px;
+  outline: none;
+}
+
+form {
+  display: flex;
+  flex-direction: column;                     /*adding the css at form page*/
+  width: 308px;
+}
+
+button {
+  background-color: #0f841b;
+  color: #11b4c7;
+  border: none;
+  border-radius: 3px;
+  padding: 14px;
+  cursor: pointer;
+}

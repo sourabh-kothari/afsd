@@ -1,0 +1,31 @@
+
+
+.show {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+}
+
+.container {
+  width: 80%;
+  margin: 4rem auto;
+}
+
+
+
+img {
+  width: 200px;
+  height: 200px;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.viewtems {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #333;
+  border-radius: 12px;
+  background-color: #eee;
+}

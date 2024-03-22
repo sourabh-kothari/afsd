@@ -1,0 +1,21 @@
+
+.nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navigate {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;            /*added this css in foundation js field */
+  height: 90px;
+  background-color: rgb(255, 85, 0);
+  font-weight: 650;
+}
+
+.nav ul li {
+  margin: 2rem;
+}
+
+
