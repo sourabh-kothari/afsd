@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import RecipeList from "./RecipeList";
 import "./RecipeProduct.css";
 
-const RecipeFinder = () => {
+const FindRecipe = () => {
   const [result, setOutcome] = useState();
   const Keys = "6247cc937d182578f6adbc7cf994c99a	";
   const Id = "45838235";
@@ -63,4 +63,4 @@ const RecipeFinder = () => {
   );
 };
 
-export default RecipeFinder;
+export default FindRecipe;

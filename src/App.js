@@ -5,7 +5,7 @@ import FindRecipe from "./components/FindRecipe";
 import Foundation from "./components/Foundation";
 
 
-
+/*This code belongs to Sourabh Kothari*/
 export default function App() {
   const route = createBrowserRouter([
     {
