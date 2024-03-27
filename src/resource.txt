@@ -1,0 +1,10 @@
+Reference link
+
+https://www.geeksforgeeks.org/react-tutorial/
+
+https://developer.edamam.com/admin/applications/1409624400287?service_id=2555417725632
+
+https://stackoverflow.com/questions/72768245/typeerror-cli-init-is-not-a-function-for-react-native
+
+
+https://www.w3schools.com/react/react_router.asp
