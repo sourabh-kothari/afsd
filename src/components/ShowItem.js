@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const ShowItem = (props) => {
+const ShowItem = (props) => {                 //This code belongs to Sourabh Kothari//
   const object = props.object;
   console.log(object.totalNutrients);
   return (
@@ -46,7 +46,7 @@ const ShowItem = (props) => {
               <td>Total Nutrition value</td>
               <td>
                 <li>
-                  {`${object.totalNutrients.FAPU.label} = 
+                 {`${object.totalNutrients.FAPU.label} = 
                   ${object.totalNutrients.FAPU.quantity}
                   ${object.totalNutrients.FAPU.unit}`}
                 </li>
